@@ -1,4 +1,4 @@
-# tdd playground
+# tdd playground 🧪
 
 This is the place where I gather my knowledge about test driven development & clean code and write about my journey.  
 
